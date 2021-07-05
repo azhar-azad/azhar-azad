@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 [![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=azhar-azad&show_icons=true&hide=stars&theme=radical)](https://github.com/azhar-azad)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-azad&langs_count=6&layout=compact)](https://github.com/azhar-azad)
 
